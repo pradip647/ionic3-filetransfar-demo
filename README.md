@@ -1,4 +1,4 @@
-# Download Files 
+# Cordova Plugin File transfar
 This example is showing How to download file using cordova-plugin-file-transfer plugin
 
 ## Working Code
